@@ -21,10 +21,10 @@ from pandas.io.json import json_normalize
 #Twitter keys
 #Create your own access tokens by going to the url below
 #https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html
-ck = "gwEdUQjvo9JDSLMpii205Q06O"
-cs = "OlA4PIlLfpZ5HcEAGPOIJx4DwduhmACShoGQ66mJYt4ocxShwX"
-at = "823996990329589760-1wW34frljiy7HrWp777qGFzOhEZksMW"
-ats = "nzbKJCBUqlCsP6MNe5CFrOzZHo4wcvbubt1nJTqRkvFiB"
+ck = ""
+cs = ""
+at = ""
+ats = ""
 
 # Twitter uses OAuth to provide Authorized access to its API 
 oauth = OAuth(at,ats,ck,cs)
